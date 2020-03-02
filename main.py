@@ -169,7 +169,7 @@ if __name__ == '__main__':
 
 
     #Makes them fight
-    Articuno.fight(Zapdos)
+    Wooper.fight(Charizard)
 
 
 
